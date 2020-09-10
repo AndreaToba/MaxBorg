@@ -1,0 +1,8 @@
+C:\Users\183465\Downloads\MaxBorg\MaxBorg\MaxBorgContent\obj\x86\Debug\MaxBorgContent.contentprojResolveAssemblyReference.cache
+C:\Users\tcost\Desktop\MaxBorg\MaxBorg\MaxBorgContent\obj\x86\Debug\MaxBorgContent.contentprojResolveAssemblyReference.cache
+E:\Video Game Design\MaxBorg\MaxBorg\MaxBorgContent\obj\x86\Debug\MaxBorgContent.contentprojResolveAssemblyReference.cache
+D:\Video Game Design\MaxBorg\MaxBorg\MaxBorgContent\obj\x86\Debug\MaxBorgContent.contentprojResolveAssemblyReference.cache
+C:\Users\tcost\Desktop\MaxxBorg\MaxBorg\MaxBorgContent\obj\x86\Debug\MaxBorgContent.contentprojResolveAssemblyReference.cache
+C:\Users\tcost\Desktop\MaxBorgFinal\MaxBorg\MaxBorgContent\obj\x86\Debug\MaxBorgContent.contentprojResolveAssemblyReference.cache
+E:\Video Game Design\Sprint 3\MaxBorgFinal\MaxBorg\MaxBorgContent\obj\x86\Debug\MaxBorgContent.contentprojResolveAssemblyReference.cache
+D:\Video Game Design 2018-19\Sprint 3\MaxBorgFinal\MaxBorg\MaxBorgContent\obj\x86\Debug\MaxBorgContent.contentprojResolveAssemblyReference.cache
