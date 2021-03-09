@@ -1,9 +1,9 @@
 # MaxBorg
-Created in 2019.
+Created in 2018.
 
 A 2D game where you shoot down enemy space ships using various weapons.
 
-This was a project created in 2019 using C# and Visual Code 2015, and is played using an Xbox game controller. Project goals 
+This was a project created in 2018 using C# and Visual Code 2015, and is played using an Xbox game controller. Project goals 
 included using technologies learned in my video game programming class to create a working game.
 
 ## How the Game Works
